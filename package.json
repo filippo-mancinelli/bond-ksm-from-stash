@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@polkadot/api": "^9.14.2",
+    "@polkadot/extension-dapp": "^0.44.9"
+  },
+  "devDependencies": {
+    "@types/jsdom": "^21.1.0",
+    "jsdom": "^21.1.0"
+  }
+}
